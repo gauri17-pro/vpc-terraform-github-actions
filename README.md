@@ -4,12 +4,12 @@
 
 ## Table of Contents
 * ### Introduction
-* Prerequisites
-* Getting Started
-  * Installation
-  * Configuration
-* Usage
-  * Creating Infrastructure
-  * Automating Deployment with GitHub Actions
+* ### Prerequisites
+* ### Getting Started
+  * ### Installation
+  * ### Configuration
+* ### Usage
+  * ### Creating Infrastructure
+  * ### Automating Deployment with GitHub Actions
 
 
