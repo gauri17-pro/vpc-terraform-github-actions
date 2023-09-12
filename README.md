@@ -1,2 +1,1 @@
-# vpc-terraform-github-actions
-Creating a VPC using Terraform as IAAC and github actions as CI/CD
+# Create and manage infrastructure using Terraform and automate the deployment process with GitHub Actions.
